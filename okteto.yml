@@ -10,5 +10,5 @@ dev:
  adsoftsito:
    command: bash
    sync:
-   - .:/graphql-trainning   # cambiar por su proyecto
+   - .:/hackernews   # cambiar por su proyecto
 
