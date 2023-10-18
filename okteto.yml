@@ -1,7 +1,7 @@
 
 build:
  zurisaddairj:  # cambiar por su namespace de okteto
-   image: okteto.dev/zurisaddairj:latest  # cambiar por su namespace de okteto
+   image: okteto.dev/graphql-zurisaddairj:latest  # cambiar por su namespace de okteto
 
 deploy:
  - okteto build # build the image with the latest code
